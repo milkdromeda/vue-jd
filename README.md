@@ -54,17 +54,17 @@ node server.js
 .
 ├── README.md           
 ├── libs               		// packages of common back-end tools' framework (formatting/MD5 encryption etc.)
-├── route              		// Back-end connection menu
-├── server.js          		// Back-end server settings file
+├── route              		// back-end connection menu
+├── server.js          		// back-end server settings file
 ├── webpack.config.js  		// webpack settings file
-├── index.html         		// Project entrance file
-├── package.json       		// Project settings file
-├── src                		// Production menu
+├── index.html         		// project entrance file
+├── package.json       		// project settings file
+├── src                		// production menu
 │   ├── assets         		// css js and image source
 │   ├── components     		// Vue components
 │   ├── store          		// vuex state manager
-│   ├── App.vue        		// Project panorama/Vue
-│   ├── main.js        		// Webpack editing entrance
+│   ├── App.vue        		// project panorama/Vue
+│   ├── main.js        		// webpack editing entrance
 │   └── router.config.js    	// vue router settings file
 </pre>
 
