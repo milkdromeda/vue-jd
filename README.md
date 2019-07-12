@@ -61,7 +61,7 @@ node server.js
 ├── package.json       		// project settings file
 ├── src                		// production menu
 │   ├── assets         		// css js and image source
-│   ├── components     		// Vue components
+│   ├── components     		// vue components
 │   ├── store          		// vuex state manager
 │   ├── App.vue        		// project panorama/Vue
 │   ├── main.js        		// webpack editing entrance
