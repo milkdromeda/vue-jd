@@ -2,7 +2,7 @@
 - Vue2.0+Vuex+Axios+NodeJs+Express+MySQL
 
 ## Front-End Structure
-- Page structure: HTML5,CSS3,JS
+- Page structure: HTML5, CSS3, JS
 - Framework: Vue
 - Data processing framework: Axios
 - Router: Vue-Router
@@ -27,9 +27,9 @@
 
 ## Installation
 
-Installed MySQL database，insert migou.sql
+Installed MySQL database, insert migou.sql
 
-Use `npm`to install local server third-party framework(Need to have installed [Node.js](https://nodejs.org/))
+Use `npm` to install local server third-party framework (Need [Node.js](https://nodejs.org/))
 
 ```
 cd vue-jd
