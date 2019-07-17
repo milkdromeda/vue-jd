@@ -1,5 +1,5 @@
 # vue-jd
-- Mockup of an online [web store](https://www.jd.com/)
+- An interactive mockup of an online [web store](https://www.jd.com/)
 - Vue2.0+Vuex+Axios+NodeJs+Express+MySQL
 
 ## Front-End Structure
@@ -28,9 +28,9 @@
 
 ## Installation
 
-Installed MySQL database, insert migou.sql
+With MySQL database installed, open migou.sql
 
-Use `npm` to install local server third-party framework (Need [Node.js](https://nodejs.org/))
+Use `npm` to install local server third-party framework (Requires [Node.js](https://nodejs.org/))
 
 ```
 cd vue-jd
@@ -44,7 +44,7 @@ npm install or cnpm install
 npm run dev
 ```
 
-Open back-end server
+Next, open the back-end server
 
 ```
 node server.js
