@@ -1,4 +1,5 @@
-# Jd.com Portable Web Store
+# vue-jd
+- Mockup of an online [web store](https://www.jd.com/)
 - Vue2.0+Vuex+Axios+NodeJs+Express+MySQL
 
 ## Front-End Structure
