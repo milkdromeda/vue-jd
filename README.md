@@ -1,18 +1,18 @@
 # vue-jd
-- An interactive mockup of an online [web store](https://www.jd.com/)
-- Vue2.0+Vuex+Axios+NodeJs+Express+MySQL
+- An interactive mockup of a mobile [web store](https://www.jd.com/)
 
 ## Front-End Structure
-- Page structure: HTML5, CSS3, JS
-- Framework: Vue
+- Page structure: HTML5/CSS3/JS
+- Framework: Vue 2.0
+- Stage management pattern: Vuex
 - Data processing framework: Axios
 - Router: Vue-Router
 - Image rendering: Vue-LazyLoad
 
 ## Server Structure
-- Back-end development: Nodejs
-- Service settings/routing/processing: Express
-- Database communications: Mysql
+- Back-end development: Node.js
+- Service settings/routing/processing: Express.js
+- Database communications: MySQL
 - Front-end receiver: Body-Parser
 - Cookie & session processing: Cookie-Parser & Cookie-Session
 
